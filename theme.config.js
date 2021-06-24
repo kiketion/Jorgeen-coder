@@ -1,11 +1,11 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  repository: 'https://github.com/kiketion/Jorgeen-coder',
+  titleSuffix: ' – JorgeenCoder',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Jorgeen</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next.js Site Builder
+        Coder
       </span>
     </>
   ),
