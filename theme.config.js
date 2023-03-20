@@ -4,9 +4,7 @@ export default {
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Jorgeen</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
-        Coder
-      </span>
+      <span className="text-gray-600 font-normal hidden md:inline">Coder</span>
     </>
   ),
   head: (
@@ -61,5 +59,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
+  footerText: <>MIT {new Date().getFullYear()} © Jorgeen.</>,
 }
